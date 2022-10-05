@@ -1,11 +1,13 @@
 {
-  "name": "1",
+  "name": "Azu theme",
   "displayName": "Azudarktheme",
-  "description": "azu dark theme",
+  "description": "azu's pink theme",
+  "publisher" : "Azu",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.71.0"
   },
+  "icon": "https://cdn-icons-png.flaticon.com/512/8015/8015481.png",
   "categories": [
     "Themes"
   ],
