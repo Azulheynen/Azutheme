@@ -1,0 +1,21 @@
+{
+  "name": "1",
+  "displayName": "Azudarktheme",
+  "description": "azu dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Azus dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Azus dark theme-color-theme.json"
+      }
+    ]
+  }
+}
